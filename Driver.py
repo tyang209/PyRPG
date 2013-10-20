@@ -29,7 +29,7 @@ import Audio
 class App(object):
     def __init__(self):
         #####
-        self.musicEnabled = True
+        self.musicEnabled = False
         #####
 
 

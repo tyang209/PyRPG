@@ -1,7 +1,7 @@
 from tkinter import PhotoImage
 import Combat
 import wave
-import pyaudio
+#import pyaudio
 import Audio
 import AI
 import Inventory
